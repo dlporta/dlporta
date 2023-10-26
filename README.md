@@ -4,10 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/douglas hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas hernandez" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22804180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22804180" height="30" width="40" /></a>
-<a href="https://fb.com/david hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david hernandez" height="30" width="40" /></a>
-<a href="https://discord.gg/723323822257864725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="723323822257864725" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
